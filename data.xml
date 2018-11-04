@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ASCII"?>
+<NFL>
+	<Teams>
+		<Team FullName="Arizona Cardinals" Conference="NFC" Division="West" Regex="Arizona Cardinals" Location="Arizona" Name="Cardinals" Abbreviation="ARI" Id="CRD"/>
+		<Team FullName="Atlanta Falcons" Conference="NFC" Division="South" Regex="Atlanta Falcons" Location="Atlanta" Name="Falcons" Abbreviation="ATL" Id="ATL"/>
+		<Team FullName="Baltimore Ravens" Conference="AFC" Division="North" Regex="Baltimore Ravens" Location="Baltimore" Name="Ravens" Abbreviation="BAL" Id="RAV"/>
+		<Team FullName="Buffalo Bills" Conference="AFC" Division="East" Regex="Buffalo Bills" Location="Buffalo" Name="Bills" Abbreviation="BUF" Id="BUF"/>
+		<Team FullName="Carolina Panthers" Conference="NFC" Division="South" Regex="Carolina Panthers" Location="Carolina" Name="Panthers" Abbreviation="CAR" Id="CAR"/>
+		<Team FullName="Chicago Bears" Conference="NFC" Division="North" Regex="Chicago Bears" Location="Chicago" Name="Bears" Abbreviation="CHI" Id="CHI"/>
+		<Team FullName="Cincinnati Bengals" Conference="AFC" Division="North" Regex="Cincinnati Bengals" Location="Cincinnati" Name="Bengals" Abbreviation="CIN" Id="CIN"/>
+		<Team FullName="Cleveland Browns" Conference="AFC" Division="North" Regex="Cleveland Browns" Location="Cleveland" Name="Browns" Abbreviation="CLE" Id="CLE"/>
+		<Team FullName="Dallas Cowboys" Conference="NFC" Division="East" Regex="Dallas Cowboys" Location="Dallas" Name="Cowboys" Abbreviation="DAL" Id="DAL"/>
+		<Team FullName="Denver Broncos" Conference="AFC" Division="West" Regex="Denver Broncos" Location="Denver" Name="Broncos" Abbreviation="DEN" Id="DEN"/>
+		<Team FullName="Detroit Lions" Conference="NFC" Division="North" Regex="Detroit Lions" Location="Detroit" Name="Lions" Abbreviation="DET" Id="DET"/>
+		<Team FullName="Green Bay Packers" Conference="NFC" Division="North" Regex="Green Bay Packers" Location="Green Bay " Name="Packers" Abbreviation="GB" Id="GNB"/>
+		<Team FullName="Houston Texans" Conference="AFC" Division="South" Regex="Houston Texans" Location="Houston" Name="Texans" Abbreviation="HOU" Id="HTX"/>
+		<Team FullName="Indianapolis Colts" Conference="AFC" Division="South" Regex="Indianapolis Colts" Location="Indianapolis" Name="Colts" Abbreviation="IND" Id="CLT"/>
+		<Team FullName="Jacksonville Jaguars" Conference="AFC" Division="South" Regex="Jacksonville Jaguars" Location="Jacksonville" Name="Jaguars" Abbreviation="JAX" Id="JAX"/>
+		<Team FullName="Kansas City Chiefs" Conference="AFC" Division="West" Regex="Kansas City Chiefs" Location="Kansas City " Name="Chiefs" Abbreviation="KC" Id="KAN"/>
+		<Team FullName="Miami Dolphins" Conference="AFC" Division="East" Regex="Miami Dolphins" Location="Miami" Name="Dolphins" Abbreviation="MIA" Id="MIA"/>
+		<Team FullName="Minnesota Vikings" Conference="NFC" Division="North" Regex="Minnesota Vikings" Location="Minnesota" Name="Vikings" Abbreviation="MIN" Id="MIN"/>
+		<Team FullName="New England Patriots" Conference="AFC" Division="East" Regex="New England Patriots" Location="New England " Name="Patriots" Abbreviation="NE" Id="NWE"/>
+		<Team FullName="New Orleans Saints" Conference="NFC" Division="South" Regex="New Orleans Saints" Location="New Orleans " Name="Saints" Abbreviation="NO" Id="NOR"/>
+		<Team FullName="New York Giants" Conference="NFC" Division="East" Regex="((New York|NY)( Giants))" Location="New York " Name="Giants" Abbreviation="NYG" Id="NYG"/>
+		<Team FullName="New York Jets" Conference="AFC" Division="East" Regex="((New York|NY)( Jets))" Location="New York " Name="Jets" Abbreviation="NYJ" Id="NYJ"/>
+		<Team FullName="Oakland Raiders" Conference="AFC" Division="West" Regex="Oakland Raiders" Location="Oakland" Name="Raiders" Abbreviation="OAK" Id="RAI"/>
+		<Team FullName="Philadelphia Eagles" Conference="NFC" Division="East" Regex="Philadelphia Eagles" Location="Philadelphia" Name="Eagles" Abbreviation="PHI" Id="PHI"/>
+		<Team FullName="Pittsburgh Steelers" Conference="AFC" Division="North" Regex="Pittsburgh Steelers" Location="Pittsburgh" Name="Steelers" Abbreviation="PIT" Id="PIT"/>
+		<Team FullName="Los Angeles Chargers" Conference="AFC" Division="West" Regex="(((Los Angeles)|(L(\.?)A(\.?))) Chargers)" Location="Los Angeles " Name="Chargers" Abbreviation="SD" Id="SDG"/>
+		<Team FullName="San Francisco 49ers" Conference="NFC" Division="West" Regex="((San Francisco)( 49er([&apos;]?)s|Fourty((\s|-)?)Niners))" Location="San Francisco " Name="49ers" Abbreviation="SF" Id="SFO"/>
+		<Team FullName="Seattle Seahawks" Conference="NFC" Division="West" Regex="Seattle Seahawks" Location="Seattle" Name="Seahawks" Abbreviation="SEA" Id="SEA"/>
+		<Team FullName="Los Angeles Rams" Conference="NFC" Division="West" Regex="(((Los Angeles)|(L(\.?)A(\.?))) Rams)" Location="Los Angeles " Name="Rams" Abbreviation="STL" Id="RAM"/>
+		<Team FullName="Tampa Bay Buccaneers" Conference="NFC" Division="South" Regex="Tampa Bay Buccaneers" Location="Tampa Bay " Name="Buccaneers" Abbreviation="TB" Id="TAM"/>
+		<Team FullName="Tennessee Titans" Conference="AFC" Division="South" Regex="Tennessee Titans" Location="Tennessee" Name="Titans" Abbreviation="TEN" Id="OTI"/>
+		<Team FullName="Washington Redskins" Conference="NFC" Division="East" Regex="Washington Redskins" Location="Washington" Name="Redskins" Abbreviation="WAS" Id="WAS"/>
+	</Teams>
+</NFL>
